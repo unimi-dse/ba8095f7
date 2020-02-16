@@ -1,20 +1,21 @@
 # ba8095f7
-##                         AVOCADO PRICES
+
+#                        AVOCADO PRICES
 My analysis will focus on the region of Ney York about the performance of the price of avocado, the changes on quantity demand from 2015 to 2018, and finally I will make a predictor for quantity demanded.
 
-# Installation
+## Installation
 ```R
 # first install the R package "devtools" if not installed (install.packages("devtools")
 devtools::install_github('unimi-dse/ba8095f7')
 ```
-# Usage
+## Usage
 <p> Load the package. </p>
 
 ```R
 require(Avoprices)
 ```
 
-# Dataset
+## Dataset
 This data set has been plucked from kaggle wich in turn was downloaded from the Hass Avocado Board website in May of 2018 & compiled into a single CSV:' represents weekly 2018 retail scan data for National retail volume (units) and price'.
 
 ## Dataset description: 
@@ -30,9 +31,9 @@ Total Volume - Total number of avocados sold
 4770 - Total number of avocados with PLU 4770 sold
 
 
-# Technologies
+## Technologies
 used R studio
 
 
-# Author
+## Author
 Noemi Cocozza
